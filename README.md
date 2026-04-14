@@ -38,6 +38,9 @@ This project analyzes Adidas sales data to uncover trends, regional performance,
 2. Open Excel files
 3. Explore dashboards and pivot tables
 
+## Skills
+👉 [View detailed skills](skills.md)
+
 ## 📌 Future Improvements
 - Convert to Power BI / Tableau
 - Add predictive analysis
